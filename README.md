@@ -9,8 +9,8 @@ This project is to aid with the quick set up of CI/CD pipelines for Azure Devops
 
     On Linux:
     ```
-    git clone https://w2globaldata@dev.azure.com/w2globaldata/Platform/_git/Tooling.ProjectSetup
-    cd Tooling.ProjectSetup
+    git clone https://github.com/milesbarnardw2/azure-devops-quickstart.git
+    cd azure-devops-quickstart
     python3 -m pip install --user virtualenv
     python3 -m venv env
     source env/bin/activate
